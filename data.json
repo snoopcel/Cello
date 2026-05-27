@@ -11,7 +11,7 @@
       "emoji": "🔗",
       "title": "Contoh",
       "url": "https://example.com",
-      "visible": false,
+      "visible": true,
       "order": 0
     },
     {
