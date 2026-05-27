@@ -13,6 +13,14 @@
       "visible": true,
       "order": 0,
       "id": "f6dd8619-58ee-41c4-af0a-641a2820bcc0"
+    },
+    {
+      "id": "ad6e84e8-0d08-4cf2-ab54-5a44fe01db8d",
+      "emoji": "🔗",
+      "title": "Testing",
+      "url": "https://example.com",
+      "visible": true,
+      "order": 1
     }
   ],
   "pin": "0000"
